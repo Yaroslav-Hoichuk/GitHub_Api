@@ -6,4 +6,3 @@ export default defineConfig({
   base: '/GitHub_Api/',
   plugins: [tailwindcss(),react()],
 })
-
