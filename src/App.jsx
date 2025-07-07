@@ -28,7 +28,7 @@ function App() {
     <>
     <div className="mx-auto flex flex-col items-center justify-center bg-purple-950 min-h-screen ">
       <div className="">
-        <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-5xl xl:text-7xl 2xl:text-9xl text-teal-50 font-normal ">Welcome to Github Api</h1>
+        <h1 className="text-2xl sm:text-4xl md:text-5xl lg:text-5xl xl:text-7xl 2xl:text-9xl text-teal-50 font-normal ">Welcome to Github Api</h1>
       </div>
       <div className="mt-4 sm:min-w-8/12 md:w-2xl lg:w-4xl xl:w-5xl 2xl:w-6xl justify-between">
         <input className="bg-transparent font-normal text-xl min-w-8/12" type="text" placeholder="Enter the username" id="searchInput"/>
